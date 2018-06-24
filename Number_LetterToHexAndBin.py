@@ -13,5 +13,3 @@ while True:
     time.sleep(0.76)
     print("************************************")
     time.sleep(1)
-
- 
